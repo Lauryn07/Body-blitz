@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693926208785",
+    "project_id": "body-blitz-c74a0",
+    "storage_bucket": "body-blitz-c74a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693926208785:android:73a23957788b7d8981d8b0",
+        "android_client_info": {
+          "package_name": "com.chela.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvC0mez8nQ-Xja24KIYIDzRSsfJOfGgUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
