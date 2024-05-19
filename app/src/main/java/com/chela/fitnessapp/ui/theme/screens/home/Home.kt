@@ -48,7 +48,7 @@ fun HomeScreen(navController: NavHostController)
         contentScale = ContentScale.FillBounds)
 
     Column (horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Top,
+        verticalArrangement = Arrangement.Center,
         modifier = Modifier.fillMaxSize()) {
 
         Text(
@@ -72,6 +72,7 @@ fun HomeScreen(navController: NavHostController)
                 text = "Workout",
                 textAlign = TextAlign.Center,
                 fontSize = 20.sp
+                , color = Color.Black
             )
 
 
@@ -92,7 +93,8 @@ fun HomeScreen(navController: NavHostController)
             Text(
                 text = "Diet",
                 textAlign = TextAlign.Center,
-                fontSize = 20.sp
+                fontSize = 20.sp,
+                 color = Color.Black
             )
 
         }

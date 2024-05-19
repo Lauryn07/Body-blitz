@@ -127,6 +127,7 @@ fun RegistrationScreen(navController: NavHostController) {
                 text = "Register account",
                 textAlign = TextAlign.Center,
                 fontSize = 20.sp
+                , color = Color.Black
             )
 
 
